@@ -1,4 +1,4 @@
-# phase2
+# Workshop2
 ## general information
 * In this project, we update and improve the Al Rajhi Bank
 * code After completing the first stage of the workshop, we made observations that lead to
@@ -7,6 +7,11 @@
 * The project does that it improves the code and makes it understandable and readable, so this leads to the development of the bank's code and makes it better
 
 * The benefit of this project, after its development, is to help developers of the system and code readers to understand it faster, and thus facilitate the release of updates continuously.
+
+## Description 
+The repository contains the codes and environment that can be modified and developed
+https://github.com/riiix3/phase2
+
 
 ## Technologise Used 
 * The code is written in Java which contains a lot of libraries that are in the JDK
