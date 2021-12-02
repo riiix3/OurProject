@@ -1,0 +1,1 @@
+cmd_Release/node-fasttext.node := ln -f "Release/obj.target/node-fasttext.node" "Release/node-fasttext.node" 2>/dev/null || (rm -rf "Release/node-fasttext.node" && cp -af "Release/obj.target/node-fasttext.node" "Release/node-fasttext.node")
