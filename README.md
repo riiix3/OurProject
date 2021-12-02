@@ -12,18 +12,25 @@
  (Text Classification Quick Text Tool) on the example from the user.  In order to run the first version of the system, you need the following steps:
 1. Download npm:
 >  sudo apt install npm
-4. Create and open project folder: mkdir [your choice name]
-5. Initialize requirements: npm init -y 
-6. Add index.html,index.js and train.txt in the same folder. [check the supplement materials]
-7. Install the Node.js sandbox for the Machine learning algorithm (fasttext): npm install node fasttext --save
-8. Install Express: npm install express --save
-9. Install some cors issues: npm install cors --save
-10. Now if you want to get this sandbox up and running pretty quick you go ahead and use my 
+2. Create and open project folder:
+> mkdir [your choice name]
+3. Initialize requirements:
+> npm init -y 
+4. Add index.html,index.js and train.txt in the same folder. [check the supplement materials]
+5. Install the Node.js sandbox for the Machine learning algorithm (fasttext):
+> npm install node fasttext --save
+6. Install Express:
+> npm install express --save
+7. Install some cors issues:
+> npm install cors --save
+8. Now if you want to get this sandbox up and running pretty quick you go ahead and use my 
 HTML and J's files (provided on this URL) and once you have done. 
-9. Run index.js: node index.js
+9. Run index.js:
+> node index.js
 
 
-## Technologise Used 
+## License
+Distributed under the MIT Lisense> See >train.txt for more informaiton.
 
 
 ## Setup
@@ -36,8 +43,20 @@ HTML and J's files (provided on this URL) and once you have done.
 * Deployment
 
 ## Project stateus:
-* in Progress 
+* in Progress
+
+## Contact 
+* Aliah Alhameed 
+* Qamra Almutairi
+* Rahaf Alotibi
+* Arwa Alqahtani 
+
+Project Link:
+https://github.com/riiix3/phase2
 
 
-
+## Acknowledgments
+One of the things that helped us build an easy environment for development is :
+Ubuntu
+Github
 
