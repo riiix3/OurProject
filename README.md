@@ -1,23 +1,30 @@
 # Workshop2
-## general information
-* In this project, we update and improve the Al Rajhi Bank
-* code After completing the first stage of the workshop, we made observations that lead to
-* improving the quality of the code. The aim of this is to implement what we have reached from the first stage.
-
-* The project does that it improves the code and makes it understandable and readable, so this leads to the development of the bank's code and makes it better
-
-* The benefit of this project, after its development, is to help developers of the system and code readers to understand it faster, and thus facilitate the release of updates continuously.
 
 ## Description 
-The repository contains the codes and environment that can be modified and developed
-https://github.com/riiix3/phase2
+* The purpose of the workshop is to learn and apply the software engineering activities and skills needed.
+*  It consists of four iterations of the implementation product (food text label predictions).
+*  This workshop is based on the development of a web-based machine learning system for classification of simple text
+
+
+
+## installation
+* The following steps show you how to set up the node is the server to run the machine learning platform
+ (Text Classification Quick Text Tool) on the example from the user.  In order to run the first version of the system, you need the following steps:
+1. Download npm:
+>  sudo apt install npm
+4. Create and open project folder: mkdir [your choice name]
+5. Initialize requirements: npm init -y 
+6. Add index.html,index.js and train.txt in the same folder. [check the supplement materials]
+7. Install the Node.js sandbox for the Machine learning algorithm (fasttext): npm install node fasttext --save
+8. Install Express: npm install express --save
+9. Install some cors issues: npm install cors --save
+10. Now if you want to get this sandbox up and running pretty quick you go ahead and use my 
+HTML and J's files (provided on this URL) and once you have done. 
+9. Run index.js: node index.js
 
 
 ## Technologise Used 
-* The code is written in Java which contains a lot of libraries that are in the JDK
 
-## difficulties
-* Users will find it difficult to understand the code, since the system is a bank system and its information is sensitive, so some classes and variables have been encrypted.
 
 ## Setup
 * Dawnload npm 
