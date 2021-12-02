@@ -31,7 +31,8 @@ HTML and J's files (provided on this URL) and once you have done.
 
 ## License
 Distributed under the MIT Lisense> See 
->train.txt for more informaiton.
+>train.txt
+ for more informaiton.
 
 
 ## Setup
