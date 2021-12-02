@@ -59,6 +59,6 @@ https://github.com/riiix3/phase2
 
 ## Acknowledgments
 One of the things that helped us build an easy environment for development is :
-Ubuntu
-Github
+* Ubuntu
+* Github
 
