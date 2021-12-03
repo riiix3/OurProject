@@ -31,9 +31,9 @@ HTML and J's files (provided on this URL) and once you have done.
 
 ## License
 Distributed under the MIT Lisense See 
-> train.txt
-> index.js
-> index.html
+train.txt
+index.js
+index.html
 https://github.com/snapppy/fasttext-demo
 
 
