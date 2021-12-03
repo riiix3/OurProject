@@ -31,23 +31,28 @@ HTML and J's files (provided on this URL) and once you have done.
 
 ## License
 Distributed under the MIT Lisense See 
->train.txt
- for more informaiton.
+> train.txt
+> index.js
+> index.html
+https://github.com/snapppy/fasttext-demo
 
 
-## Technologies Used
-* The code is written in Java 
+## Language Used
+* JavaScript
+* HTML
 
 ## Project stateus:
-* in Progress
+* In Progress
 
 ## Contact 
-* Aliah Alhameed 
-* Gamra Almutairi 
-* Rahaf Alotibi
-* Arwa Alqahtani 
+* Aliah Alhameed - ahameed@sm.imam.edu.sa - https://github.com/aalliiaah
+* Qamra Almutairi - qaaalmutairi@sm.imamu.edu.sa - https://github.com/AGamra
+* Rahaf Alotibi - 
+* Arwa Alqahtani - Anhalqahtani21@sm.imamu.edu.sa - https://github.com/ArwaAlqahtani
 
 Project Link:
-https://github.com/riiix3/phase2
 
+## Acknowledgments 
+One of the things that helped us build an easy environment for development is :
+https://github.com/snapppy/fasttext-demo
 
