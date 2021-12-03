@@ -43,7 +43,7 @@ Distributed under the MIT Lisense See
 
 ## Contact 
 * Aliah Alhameed 
-* Qamra Almutairi 
+* Gamra Almutairi 
 * Rahaf Alotibi
 * Arwa Alqahtani 
 
