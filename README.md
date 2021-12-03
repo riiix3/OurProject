@@ -40,7 +40,7 @@ Distributed under the MIT Lisense> See
 * in Progress
 
 ## Contact 
-* Aliah Alhameed - https://github.com/aalliiaah/workshop2
+* Aliah Alhameed -aalliiaah-
 * Qamra Almutairi - 
 * Rahaf Alotibi
 * Arwa Alqahtani 
