@@ -1,9 +1,8 @@
-# Workshop2
+# OurProject
 
 ## Description 
 * The purpose of the workshop is to learn and apply the software engineering activities and skills needed.
-*  It consists of four iterations of the implementation product (food text label predictions).
-*  This workshop is based on the development of a web-based machine learning system for classification of simple text
+* This workshop is based on the development of a web-based machine learning system for classification of simple text
 
 
 
@@ -16,7 +15,7 @@
 > mkdir [your choice name]
 3. Initialize requirements:
 > npm init -y 
-4. Add index.html,index.js and train.txt in the same folder. [check the supplement materials]
+4. Add index.html,index.js and train.txt in the same folder.
 5. Install the Node.js sandbox for the Machine learning algorithm (fasttext):
 > npm install node fasttext --save
 6. Install Express:
@@ -35,21 +34,14 @@ Distributed under the MIT Lisense> See
  for more informaiton.
 
 
-## Setup
-* Dawnload npm 
-* Dawnload Virtual machine
-* Sign up github
-* Creat Repository 
-* Dawnloand code 
-* Releas code 
-* Deployment
+
 
 ## Project stateus:
 * in Progress
 
 ## Contact 
-* Aliah Alhameed 
-* Qamra Almutairi
+* Aliah Alhameed - https://github.com/aalliiaah/workshop2
+* Qamra Almutairi - 
 * Rahaf Alotibi
 * Arwa Alqahtani 
 
