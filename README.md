@@ -1,8 +1,9 @@
 # OurProject
 
 ## Description 
-* The purpose of the workshop is to learn and apply the software engineering activities and skills needed.
-* This workshop is based on the development of a web-based machine learning system for classification of simple text
+* The goal is to learn important software engineering skills and activities
+* This project aims to develop a web-based machine learning system for a given text classification.
+Text classification is a good way to classify text into categories, in addition using machine learning to automate these tasks makes the process much faster and more efficient.
 
 
 
@@ -29,28 +30,24 @@ HTML and J's files (provided on this URL) and once you have done.
 
 
 ## License
-Distributed under the MIT Lisense> See 
+Distributed under the MIT Lisense See 
 >train.txt
  for more informaiton.
 
 
-
+## Technologies Used
+* The code is written in Java 
 
 ## Project stateus:
 * in Progress
 
 ## Contact 
-* Aliah Alhameed -aalliiaah-
-* Qamra Almutairi - 
+* Aliah Alhameed 
+* Qamra Almutairi 
 * Rahaf Alotibi
 * Arwa Alqahtani 
 
 Project Link:
 https://github.com/riiix3/phase2
 
-
-## Acknowledgments
-One of the things that helped us build an easy environment for development is :
-* Ubuntu
-* Github
 
