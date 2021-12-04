@@ -7,7 +7,7 @@ Text classification is a good way to classify text into categories, in addition 
 
 
 
-## installation
+## Installation
 * The following steps show you how to set up the node is the server to run the machine learning platform
  (Text Classification Quick Text Tool) on the example from the user.  In order to run the first version of the system, you need the following steps:
 1. Download npm:
@@ -23,9 +23,7 @@ Text classification is a good way to classify text into categories, in addition 
 > npm install express --save
 7. Install some cors issues:
 > npm install cors --save
-8. Now if you want to get this sandbox up and running pretty quick you go ahead and use my 
-HTML and J's files (provided on this URL) and once you have done. 
-9. Run index.js:
+8. Run index.js:
 > node index.js
 
 
