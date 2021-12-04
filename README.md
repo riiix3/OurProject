@@ -28,11 +28,10 @@ Text classification is a good way to classify text into categories, in addition 
 
 
 ## License
-Distributed under the MIT Lisense See 
-train.txt
-index.js
-index.html
-https://github.com/snapppy/fasttext-demo
+* train.txt
+* index.js
+* index.html
+* https://github.com/snapppy/fasttext-demo
 
 
 ## Language Used
