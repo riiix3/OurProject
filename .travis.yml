@@ -4,8 +4,6 @@ node_js:
 Cache:
   directories:
   - node_modules
-  services:
-  - docker
   script:
   - npm run test:unit 
 
