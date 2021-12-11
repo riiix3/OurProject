@@ -1,19 +1,4 @@
-language: node_js 
-node_js:
--0.1.0
-Cache: npm 
+language: node_js
 
-before_install:
-  - gem install rake
-  
-install:
-- npm ci
-
-script:
-- npm test
-- npm run build
-
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+Node_js:
+  - 7
