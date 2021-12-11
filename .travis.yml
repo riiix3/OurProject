@@ -1,9 +1,18 @@
 language: node_js 
 node_js:
--9
-Cache:
-  directories:
-  - node_modules
-  script:
-  - npm run test:unit 
+-0.1.0
+Cache: npm 
 
+install:
+- npm ci
+
+script:
+- npm test
+- npm run build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: gh-pages
