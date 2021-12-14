@@ -38,7 +38,7 @@ Text classification is a good way to classify text into categories, in addition 
 Project Link:
 * https://github.com/riiix3/OurProject
 
-## Acknowledgments 
+## Acknowledgment
 One of the things that helped us build an easy environment for development is :
 * https://github.com/snapppy/fasttext-demo
 
