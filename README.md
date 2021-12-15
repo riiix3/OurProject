@@ -31,7 +31,7 @@ Text classification is a good way to classify text into categories, in addition 
 
 ## Contact 
 * Aliah Alhameed - ahameed@sm.imam.edu.sa - https://github.com/aalliiaah
-* Qamra Almutairi - qaaalmutairi@sm.imamu.edu.sa - https://github.com/AGamra
+* Qamra Almutairi - qaaalmutairi@sm.imamu.edu.sa  https://github.com/AGamra
 * Rahaf Alotibi - rmmalotibi@sm.imamu.edu.sa - https://github.com/Ralrouqi
 * Arwa Alqahtani - Anhalqahtani21@sm.imamu.edu.sa - https://github.com/ArwaAlqahtani
 
