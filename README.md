@@ -8,7 +8,7 @@ Text classification is a good way to classify text into categories, in addition 
 
 
 ## Installation
-* To run this version of the system you need to need to follow the following step :
+* To run this version of the system you need to do the following step :
 1. Run index.js:
 > node index.js
 
