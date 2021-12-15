@@ -1,48 +1,36 @@
+HTML
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Your front-end</title> 
-
+<title>Your front-end</title>  
 
 </head>
 
-
 <body>
-   <img src="https://www.codester.com/static/uploads/items/000/018/18510/preview-xl.jpg" height="140px">
-  <h3>FOOD CLASSIFICATIONS SYSTEM</h3>
-<form action="/fasttext">
- 
+   <img src="https://image.freepik.com/free-vector/farm-food-tag-with-leaves_1262-10039.jpg" width="90" height="90">
+  <h1>FOOD CLASSIFICATION</h1>
+  <fieldset>
   
  
+<form action="/fasttext">
+  Enter your text to be classified<br>
+  <input type="text" name="statement">
+ 
+</font>
+      </p>
+<form action="/fasttext">
 
 </body>
-
-<fieldset>
-  <label> ENTER YOUR TEXT TO BY CLASSIFIED </label><br>
- <textarea rows="10" cols="40" name="statement"></textarea>
-
  <input type="submit" value="Submit">
  <input type="reset" value="clear text">
-
- </fieldset>
-
- <script>     
-fetch( 'http://localhost:8000/fasttext?statement=$ ')
-.then((response)=>{
-  return response.json();
-})
-
-</script>
- 
 </body>
+ <h1>Result</h1> 
+ 
+  <textarea rows="10" cols="30"></textarea>
+ <ul> 
 
- 
-</form>
- 
- <label>RESULT</label><br>
- <textarea rows="5" cols="40"></textarea>
-  
+ </ul>
  
   
 </html>
