@@ -1,58 +1,48 @@
-<<!DOCTYPE html>
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
+<title>Your front-end</title> 
 
-<title>Rahaf</title>
 
 </head>
+
+
 <body>
-<center> Welcome To "GOOD FOOD" .. </center>
-</body>
-<center>
-<body>
-<img src="https://images.creativemarket.com/0.1.0/ps/3058219/1000/700/m1/fpnw/wm0/good-food-1-.png?1501652296&s=9311a0fc319b034db8fcb386ceaf8fe0" height="150px">
-<p><font size = "+2" color = "darkgreen">
-Do you want classified yor food ?
-</font>
-</p>
+   <img src="https://www.codester.com/static/uploads/items/000/018/18510/preview-xl.jpg" height="140px">
+  <h3>FOOD CLASSIFICATIONS SYSTEM</h3>
 <form action="/fasttext">
-
-
-
+ 
+  
+ 
 
 </body>
+
 <fieldset>
-<p style="color:orange"> Well, Then Enter your food to be classified it </p>
-<textarea rows="10" cols="20" name = "statement"></textarea>
+  <label> ENTER YOUR TEXT TO BY CLASSIFIED </label><br>
+ <textarea rows="10" cols="40" name="statement"></textarea>
 
-<button type="submit" value ="Submit">Submit</button>
-<button type="reset" value ="Reset">Reset</button>
+ <input type="submit" value="Submit">
+ <input type="reset" value="clear text">
 
-</fieldset>
-</body>
+ </fieldset>
 
-<script>
-fetch('http://localhost:8000/fasttext?statement=$result')
-.then((respons) => {
-return response.json();
+ <script>     
+fetch( 'http://localhost:8000/fasttext?statement=$ ')
+.then((response)=>{
+  return response.json();
 })
-.then((data) => {
-console.log(data);
-});
+
 </script>
+ 
+</body>
+
+ 
 </form>
-
-</body>
-<p style="color:black">TEXT</p>
-<textarea rows="30" "GetFastTextResults(name)" cols="30"></textarea>
-
-
-
-</body>
-
-
-
-
+ 
+ <label>RESULT</label><br>
+ <textarea rows="5" cols="40"></textarea>
+  
+ 
+  
 </html>
