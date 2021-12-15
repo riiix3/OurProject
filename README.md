@@ -6,13 +6,14 @@ This project provides an easier way to classify food for the user, and the proce
 
 
 ## Introduction   
-* The goal is to learn important software engineering skills and activities
+* The goal is to learn important software engineering skills and activities and establish an effective team work whilst making it easier for developers to get their wokr done.
+
 * This project aims to develop a web-based machine learning system for a given text classification.
 Text classification is a good way to classify text into categories, in addition using machine learning to automate these tasks makes the process much faster and more efficient.
 
 
 ## RUN program :
-* To run this version of the system you need to need to follow the following step :
+* To run this version of the system you need to need to do the following step :
 1. Run index.js:
 > node index.js
 
