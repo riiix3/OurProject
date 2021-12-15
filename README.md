@@ -23,7 +23,7 @@ Text classification is a good way to classify text into categories, in addition 
 , There is also another button, in case the user wants to modify his text, just click on the “Clear” button.
 
 
-## 0.2.0 Version :
+## 1.0.0 Version :
 In this upgraded version we made some additional improvements over the initial version , that is why this version is considered somewhat "major Release" Because it has additional features :
 * We have modified the user interface by adding a logo indicating what the system is .
 * Also, a "CLEAR" button has been added, where if the user wants to modify his text, he can just click on it .
