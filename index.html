@@ -1,58 +1,36 @@
-<<!DOCTYPE html>
-
+HTML
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-
-<title>Rahaf</title>
+<title>Your front-end</title>  
 
 </head>
+
 <body>
-<center> Welcome To "GOOD FOOD" .. </center>
-</body>
-<center>
-<body>
-<img src="https://images.creativemarket.com/0.1.0/ps/3058219/1000/700/m1/fpnw/wm0/good-food-1-.png?1501652296&s=9311a0fc319b034db8fcb386ceaf8fe0" height="150px">
-<p><font size = "+2" color = "darkgreen">
-Do you want classified yor food ?
+   <img src="https://image.freepik.com/free-vector/farm-food-tag-with-leaves_1262-10039.jpg" width="90" height="90">
+  <h1>FOOD CLASSIFICATION</h1>
+  <fieldset>
+  
+ 
+<form action="/fasttext">
+  Enter your text to be classified<br>
+  <input type="text" name="statement">
+ 
 </font>
-</p>
+      </p>
 <form action="/fasttext">
 
-
-
-
 </body>
-<fieldset>
-<p style="color:orange"> Well, Then Enter your food to be classified it </p>
-<textarea rows="10" cols="20" name = "statement"></textarea>
-
-<button type="submit" value ="Submit">Submit</button>
-<button type="reset" value ="Reset">Reset</button>
-
-</fieldset>
+ <input type="submit" value="Submit">
+ <input type="reset" value="clear text">
 </body>
+ <h1>Result</h1> 
+ 
+  <textarea rows="10" cols="30"></textarea>
+ <ul> 
 
-<script>
-fetch('http://localhost:8000/fasttext?statement=$result')
-.then((respons) => {
-return response.json();
-})
-.then((data) => {
-console.log(data);
-});
-</script>
-</form>
-
-</body>
-<p style="color:black">TEXT</p>
-<textarea rows="30" "GetFastTextResults(name)" cols="30"></textarea>
-
-
-
-</body>
-
-
-
-
+ </ul>
+ 
+  
 </html>
