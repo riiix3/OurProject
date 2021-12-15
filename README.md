@@ -27,7 +27,8 @@ Text classification is a good way to classify text into categories, in addition 
 In this upgraded version we made some additional improvements over the initial version , that is why this version is considered somewhat "major Release" Because it has additional features :
 * We have modified the user interface by adding a logo indicating what the system is .
 * Also, a "CLEAR" button has been added, where if the user wants to modify his text, he can just click on it .
-* We made the fields in the middle and made them an appropriate size to be easier for the user to see and use .
+* We made the TextBox in the middle and made them an appropriate size to be easier for the user to see and use .
+* In the initial version, the result of the labels was shown in console and in this version, the result will appear in the user interface . 
 
 
 
@@ -47,8 +48,10 @@ In this upgraded version we made some additional improvements over the initial v
 * JavaScript
 * HTML
 
+
 ## Project stateus:
 * In Progress
+
 
 ## Contact 
 * Aliah Alhameed - ahameed@sm.imam.edu.sa - https://github.com/aalliiaah
@@ -58,6 +61,7 @@ In this upgraded version we made some additional improvements over the initial v
 
 Project Link:
 * https://github.com/riiix3/OurProject
+
 
 ## Acknowledgments
 One of the things that helped us build an easy environment for development is :
