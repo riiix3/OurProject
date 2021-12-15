@@ -1,36 +1,57 @@
-HTML
 <!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Your front-end</title>  
+
+<title>Your front-end</title>
 
 </head>
 
 <body>
-   <img src="https://image.freepik.com/free-vector/farm-food-tag-with-leaves_1262-10039.jpg" width="90" height="90">
-  <h1>FOOD CLASSIFICATION</h1>
-  <fieldset>
-  
- 
-<form action="/fasttext">
-  Enter your text to be classified<br>
-  <input type="text" name="statement">
- 
+<img src="https://thumbs.dreamstime.com/b/food-spoon-fork-vector-symbol-graphic-logo-design-template-food-spoon-fork-symbol-logo-design-121549456.jpg" height="140px">
+<p><font size = "+2" color = "darkgray">
+FOOD TEXT CLASSIFICATION
 </font>
-      </p>
+</p>
 <form action="/fasttext">
 
-</body>
- <input type="submit" value="Submit">
- <input type="reset" value="clear text">
-</body>
- <h1>Result</h1> 
- 
-  <textarea rows="10" cols="30"></textarea>
- <ul> 
 
- </ul>
- 
-  
+
+
+</body>
+<fieldset>
+<p style="color:blue">ENTER YOUR TEXT HERE TO BE CLASSIFIED </p>
+<textarea rows="30" cols="30" name = "statement"></textarea>
+
+<button type="submit" value ="Submit">Submit</button>
+<button type="reset" value ="Reset">Reset</button>
+
+</fieldset>
+</body>
+
+<script>
+fetch('http://localhost:8000/fasttext?statement=$result')
+.then((respons) => {
+return response.json();
+})
+.then((data) => {
+console.log(data);
+});
+</script>
+</form>
+
+</body>
+<p style="color:blue">LABELS AND TEXT</p>
+<textarea rows="30" "GetFastTextResults(name)" cols="30"></textarea>
+
+
+
+</body>
+
+
+
+
 </html>
+
+
